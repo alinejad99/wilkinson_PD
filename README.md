@@ -1,4 +1,4 @@
-# wilkinson_PD
+# wilkinson_PD (in ADS)
 
 Wilkinson Power Divider Design and Simulation
 In this repository, we design and simulate a Wilkinson power divider with a 2:1 power division ratio at a central frequency of 8 GHz using microstrip lines. The input and output ports are assumed to have an impedance of 50 ohms. We will use 90-degree bends to connect the lines.
